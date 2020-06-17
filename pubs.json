@@ -700,7 +700,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 20,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -1391,7 +1391,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 76,
+    "citations": 77,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -2124,7 +2124,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 132,
+    "citations": 133,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -2209,7 +2209,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 439,
+    "citations": 441,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2645,7 +2645,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 179,
+    "citations": 180,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -3143,7 +3143,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3615,
+    "citations": 3623,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
