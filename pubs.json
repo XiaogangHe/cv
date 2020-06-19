@@ -935,7 +935,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 26,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -1391,7 +1391,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 77,
+    "citations": 76,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -2209,7 +2209,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 443,
+    "citations": 444,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3143,7 +3143,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3628,
+    "citations": 3633,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
